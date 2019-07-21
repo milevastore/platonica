@@ -1,0 +1,2 @@
+# platonica
+Platonica Store
