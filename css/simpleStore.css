@@ -23,6 +23,8 @@ a.hover {
 }
 
 .brand {
+    font-family: 'Major Mono Display', monospace;
+    text-transform: uppercase;
     display: block;
     float: left;
     text-decoration: none;
@@ -310,11 +312,12 @@ p.notify_text {
 	margin-bottom: 0rem;
 }
 
-
 .platonica_banner {
-    text-align: center;
+   font-family: 'Major Mono Display', monospace;
+   font-size: 30px;
+   text-align: center;
+   text-transform: capitalize;
 }
-
 
 @media (max-width: 920px) {
     .simpleStore_getDetail_container {

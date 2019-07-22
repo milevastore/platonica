@@ -5,8 +5,7 @@
 			"price" : "900",
 			"options" : [
 				{ "Size" : "Small,Medium,Large" },
-				{ "Color" : "Black,Red" },
-			    { "OneOfAKind" : true }
+				{ "Color" : "Black,Red" }
 			],
 			"image" : "../store/Portaligas1.jpg",
 			"description" : "Portaligas con cadenas",
