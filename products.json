@@ -1,0 +1,36 @@
+{
+	"products" : [
+		{
+			"name" : "Joan",
+			"price" : "900",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Black,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "../store/Portaligas1.jpg",
+			"description" : "Portaligas con cadenas",
+			"soldOut" : false
+		},
+		{
+			"name" : "London",
+			"price" : "930",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "../store/Portaligas2.jpg",
+			"description" : "Portaligas de terciopelo",
+			"soldOut" : false
+		},
+		{
+			"name" : "Praga",
+			"price" : "850",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "../store/Portaligas3.jpg",
+			"description" : "Portaligas",
+			"soldOut" : false
+		}
+	]
+}

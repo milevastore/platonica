@@ -1,0 +1,17 @@
+{
+    "name": "PlatonicaStore",
+    "description": "Platonica Simple Store",
+    "version": "1.0.0",
+    "homepage": "http://milevastore.github.io/platonica",
+    "repository": {
+	    "type": "git",
+	    "url": "https://github.com/milevastore/platonica"
+	},
+    "main": "index.html",
+    "license": "MIT",
+    "dependencies": {
+        "jquery": "~2.2",
+        "skeleton": "~2.0.4",
+        "fontawesome": "latest"
+    }
+}
